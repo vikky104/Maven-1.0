@@ -1,4 +1,4 @@
-package app.backend-app;
+package war;
 
 import static org.junit.Assert.assertTrue;
 
